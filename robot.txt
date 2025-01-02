@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: http://nickson.work.gd/sitemap.xml
